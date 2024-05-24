@@ -5,4 +5,4 @@ Meu nome é Maria Fernanda Rodrigues Santos
  . Estou me desenvolvendo na linguagem JavaScript
  . Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
- VOCÊ
+ Você pode entrar em contato comigo 💌
